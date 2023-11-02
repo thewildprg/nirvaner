@@ -10,8 +10,7 @@ body {
 }
 
 #title {
-    text-align: center;
-    font-size: 60px;
+    align-self: center;
 }
 
 h2 {
@@ -22,13 +21,12 @@ li {
     font-size: 25px;
 }
 
-#pozaProfil {
-    height: 60px;
-    width: 60px;
-}
-
 footer {
     margin-top: 10%;
+}
+
+a :active, a :before, a :visited{
+    color: yellow;
 }
 
 
