@@ -1,0 +1,35 @@
+body {
+    color: yellow;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#title {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+li {
+    font-size: 25px;
+}
+
+#pozaProfil {
+    height: 60px;
+    width: 60px;
+}
+
+footer {
+    margin-top: 10%;
+}
+
+
+
